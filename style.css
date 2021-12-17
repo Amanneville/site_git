@@ -12,3 +12,9 @@ li:hover{
     cursor: pointer;
     color: brown;
 }
+
+p{
+    background-color: brown;
+    width: 350px;
+    padding: 2em;
+}
